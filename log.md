@@ -11,5 +11,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4784273/
 
 Day 1: 
 
-Todays Progress:  Ran xgboost regressor on yesterdays processed data with default hyperparameters.
+Todays Progress:  Ran xgboost regressor on yesterdays processed data with default hyperparameters. 
+
 Thoughts: Since I did not do any feature engineerin other than preprocessing and scaling, the results weren't good.
