@@ -14,3 +14,8 @@ Day 1:
 Todays Progress:  Ran xgboost regressor on yesterdays processed data with default hyperparameters. 
 
 Thoughts: Since I did not do any feature engineerin other than preprocessing and scaling, the results weren't good.
+
+Day 2 : 
+
+Dengue Challenge isn't working for me. No idea what to do. Need to learn more about feature engineering. So going to take a step back to go to basics #100DaysOfMLCode.
+Still, will not give up on this challenge.see you soon dengue
