@@ -19,3 +19,8 @@ Day 2 :
 
 Dengue Challenge isn't working for me. No idea what to do. Need to learn more about feature engineering. So going to take a step back to go to basics #100DaysOfMLCode.
 Still, will not give up on this challenge.see you soon dengue
+
+Day 3:
+
+Signed up for ML track @DataCamp , so far so good. learnt many new things while completing the classification and regression section.
+Implemented prediction and classification on the iris, Boston housing and gapminder datasets.
