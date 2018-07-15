@@ -24,3 +24,17 @@ Day 3:
 
 Signed up for ML track @DataCamp , so far so good. learnt many new things while completing the classification and regression section.
 Implemented prediction and classification on the iris, Boston housing and gapminder datasets.
+
+Day 4:
+
+Learned ROC and AUC.
+Hyperparameter optimization using sklearn library(Grid Search and Random Search)
+
+Day 5 :
+
+Studied Pipelining, Imputation, Scaling
+
+Day 6:
+
+ Studied KMeans Clusterin and experimented it on iris dataset. More Datasets coming tomorrow.
+#100DaysOfMLCode
